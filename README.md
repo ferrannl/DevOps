@@ -3,13 +3,13 @@
 
 [![Frontend validation](https://github.com/avans-devops/devops-workshops-ferrannl/actions/workflows/frontend.yml/badge.svg)](https://github.com/avans-devops/devops-workshops-ferrannl/actions/workflows/frontend.yml)
 
-*Integrated quality
-*Continuous integrity
-*Continuous deployment (with containerization)
-*Docker
-*Orchestration
-*Continuous monitoring
-*Disposability 
+* Integrated quality
+* Continuous integrity
+* Continuous deployment (with containerization)
+* Docker
+* Orchestration
+* Continuous monitoring
+* Disposability 
 
 ``` docker-compose up -d --scale api=3 ```
 
